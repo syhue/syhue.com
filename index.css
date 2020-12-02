@@ -42,7 +42,7 @@
 
 
 #img-main{
-    width: 10em;
+    width: 15rem;
 }
 
 .flex-container-horizontal{
@@ -67,11 +67,22 @@
 
 @media (max-width: 800px) {
     #body-main{
-        margin-left: 3rem;
+        margin-left: 2rem;
     }
 
+    #img-main{
+        width: 15rem;
+    }
+
+    .flex-container-horizontal >div {
+        display: flex;
+        flex-direction: row;
+        margin-left: 5px;
+        /* border: 2px solid red; */
+    }
 
   .flex-container-vertical {
-    flex-direction: column;
+      display: flex;
+      flex-direction: column;
   }
 }
