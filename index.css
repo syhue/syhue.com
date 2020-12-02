@@ -1,4 +1,4 @@
-body{
+#body-main{
     margin-left: 30rem;
 }
 
@@ -10,7 +10,7 @@ body{
 }
 
 
-h1{
+#h1-main{
     margin-top: 50px;
     margin-bottom: 35px;
     display: block;
@@ -41,7 +41,7 @@ h1{
 
 
 
-img{
+#img-main{
     width: 10em;
 }
 
@@ -66,7 +66,7 @@ img{
 }
 
 @media (max-width: 800px) {
-    body{
+    #body-main{
         margin-left: 3rem;
     }
 

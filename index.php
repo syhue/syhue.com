@@ -13,13 +13,13 @@ include 'navbar.html';?>
 
 </head>
 
-<body>
+<body id=body-main>
     <div id="intro" class="flex-container-vertical">
-        <div><h1>Good day.</h1></div>
+        <div><h1 id=h1-main>Good day.</h1></div>
 
 
         <div class="flex-container-horizontal">
-            <div><img src="cute.jpg" title="Mike and Mocha"></div>
+            <div><img id="img-main" src="cute.jpg" title="Mike and Mocha"></div>
             <div>
             <p><br><br><a class="intro-passage">Have you take your breakfast?</a><br><a class="intro-passage">Are you ready for today?</a><br>*Image cited from "Milk and Mocha Bear"</p>
             </div>
