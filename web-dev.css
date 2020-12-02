@@ -1,0 +1,81 @@
+.project-passage{
+    cursor: pointer;
+    color: #585452;
+    padding-bottom: 20px;
+    font-size: 3rem;
+    padding: 5px,5px,5px,5px;
+    border-radius: 10px;
+}
+
+.project-passage:visited{
+    transition: 1s;
+    transform: scale(1.5);
+    color: #585452;
+    padding: 5px,5px,5px,5px;
+}
+
+.project-passage:hover{
+    /* font-size: 1.5rem; */
+    transform: scale(2);
+    font-weight: 500;
+    color: #e71d36;
+    text-decoration: none;
+    /* background-color: #1d3557;
+    padding: 10px,10px,10px,10px; */
+    /* margin-top: 20px; */
+    /* border: 2px solid red; */
+}
+
+
+body{
+    margin-left: 30rem;
+}
+
+#intro{
+    display: flex;
+    justify-content: center;
+    /* border: 2px black solid; */
+    /* white-space: pre; */
+}
+
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 35px;
+    display: block;
+    text-align: left;
+ /* border: 2px solid red; */
+}
+
+
+
+.flex-container-horizontal{
+    display: flex;
+    flex-direction: row;
+
+    /* border: 2px solid red; */
+}
+
+.flex-container-horizontal >div {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    /* border: 2px solid red; */
+}
+
+.flex-container-vertical{
+    display: flex;
+    flex-direction: column;
+
+}
+
+@media (max-width: 800px) {
+    body{
+        margin-left: 3rem;
+    }
+
+
+  .flex-container-vertical {
+    flex-direction: column;
+  }
+}
