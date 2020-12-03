@@ -1,30 +1,48 @@
-.project-passage{
+
+
+.project-passage,.project-passage:visited{
+    display: flex;
     cursor: pointer;
     color: #585452;
-    padding-bottom: 20px;
-    font-size: 3rem;
-    padding: 5px,5px,5px,5px;
-    border-radius: 10px;
-}
-
-.project-passage:visited{
-    transition: 1s;
-    transform: scale(1.5);
-    color: #585452;
-    padding: 5px,5px,5px,5px;
-}
-
-.project-passage:hover{
-    /* font-size: 1.5rem; */
-    transform: scale(2);
-    font-weight: 500;
-    color: #e71d36;
+    font-size: 2.8rem;
     text-decoration: none;
-    /* background-color: #1d3557;
-    padding: 10px,10px,10px,10px; */
+    /* padding: 3px,3px,3px,3px; */
+
+
+}
+
+
+
+.project-passage:hover {
+    /* font-size: 1.5rem; */
+    font-weight: 500;
+    color: #49868C ;
+    text-decoration: none;
+    /* background-color: #1d3557; */
+    /* padding: 10px,10px,10px,10px; */
     /* margin-top: 20px; */
     /* border: 2px solid red; */
 }
+
+.tooltiptext{
+  visibility: hidden;
+  background: #D9B29C;
+  color: white;
+  background-size: cover;
+
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+
+}
+
+.tooltip{
+    padding-bottom: 30px;
+    /* border: 1px solid red; */
+}
+
+
 
 
 body{

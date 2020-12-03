@@ -19,13 +19,13 @@ include 'navbar.html';?>
         <div><h1>Projects.</h1></div>
 
 
-        <div><a class="project-passage animate__shakeX" href="https://syhue.com/Progress-Report">1) Progress Report</a></div>
-
-
-        <div>
-            <!-- <div><img src="profile.webp" title="Mike and Mocha"></div> -->
-
+        <div class="tooltip"><a class="project-passage animate__shakeX" href="https://syhue.com/progress-report">1) Progress Report </a><span class="tooltiptext">  This works done during my master studies.</span>
         </div>
+
+        <div class="tooltip"><a class="project-passage animate__shakeX" href="https://syhue.com/csv-database-convertor">2) CSV to Database Convertor </a><span class="tooltiptext">  This works done during my internship in MIMOS Berhad.</span>
+        </div>
+
+
     </div>
 
 </body>
