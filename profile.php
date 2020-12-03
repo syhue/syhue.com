@@ -23,7 +23,7 @@ include 'navbar.html';?>
         <div>
             <br>
             <h4>Hue Sook Yan</h4>
-            <h5>Give Name is Sook Yan.</h5><h5>Surname is Hue.</h5>
+            <h5>Given Name is Sook Yan.</h5><h5>Surname is Hue.</h5>
             <h5>Born in 1995.</h5>
             <br>
 

@@ -38,7 +38,7 @@
 }
 
 .tooltip{
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     /* border: 1px solid red; */
 }
 
@@ -96,8 +96,23 @@ h1{
         margin-bottom: 5rem;
     }
 
+    .hide-in-mobile{
+        display: none;
+    }
 
   .flex-container-vertical {
     flex-direction: column;
   }
+}
+
+.images{
+    width: 1020px;
+}
+
+
+i{
+    margin-left: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
