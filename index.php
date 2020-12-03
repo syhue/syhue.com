@@ -2,7 +2,7 @@
 include 'navbar.html';?>
 
 
-<!doctype html>
+<!DOCTYPE HTML5>
 
 <html lang="en">
 <head>
@@ -24,15 +24,11 @@ include 'navbar.html';?>
                 <div><img id="img-main" src="cute.jpg" title="Mike and Mocha"></div>
 
                 <div>
-                <p ><br><br><a class="intro-passage">Have you take your breakfast?</a><br><a class="intro-passage">Are you ready for today?</a><br>*Image cited from "Milk and Mocha Bear"</p>
+                    <p ><br><br><a class="intro-passage">Have you take your breakfast?</a><br><a class="intro-passage">Are you ready for today?</a><br>*Image cited from "Milk and Mocha Bear"</p>
                 </div>
             </div>
 
 
-            <div>
-                <!-- <div><img src="profile.webp" title="Mike and Mocha"></div> -->
-
-            </div>
         </div>
     </section>
 
@@ -46,21 +42,16 @@ include 'navbar.html';?>
                 <div><img id="img-main" src="cute.jpg" title="Mike and Mocha"></div>
 
                 <div>
-                <p ><br><a class="intro-passage">Have you take your breakfast?</a><br><a class="intro-passage">Are you ready for today?</a><br>*Image cited from "Milk and Mocha Bear"</p>
-                </div>
+                    <p ><br><a class="intro-passage">Have you take your breakfast?</a><br><a class="intro-passage">Are you ready for today?</a><br>*Image cited from "Milk and Mocha Bear"</p>
+                    </div>
             </div>
 
-
-            <div>
-                <!-- <div><img src="profile.webp" title="Mike and Mocha"></div> -->
-
-            </div>
         </div>
     </section>
 
 </body>
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     document.getElementByClassName("big-screen").onclick = function() {
 
         document.getElementById("circle").style.display = "none";
@@ -78,7 +69,7 @@ include 'navbar.html';?>
         document.getElementById("square").style.display = "none";
 
     }
-</script>
+</script> -->
 
 
 </html>
