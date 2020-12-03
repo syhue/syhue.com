@@ -23,7 +23,8 @@ include 'navbar.html';?>
             <h5>Give Name is Sook Yan.</h5><h5>Surname is Hue.</h5>
             <h5>Born in 1995.</h5>
 
-            <h5>Focused subjects:</h5></li>
+
+            <!-- <h5>Focused subjects:</h5></li>
             <ul>
                 <li>PT3 - Mathematics</li>
                 <li>SPM - Modern Mathematics & Additional Mathematics</li>
@@ -33,7 +34,7 @@ include 'navbar.html';?>
 
             <h5>Strong Mathematics foundations</h5>
             <ul>
-                <li>Graduated from Mathematics degree with Honours at Universiti Teknologi Malaysia (UTM) Johor Bharu (JB)</li>
+                <li>Graduated from Mathematics degree with Honours at Universiti Teknologi Malaysia (UTM) Johor Bharu (JB)</li> -->
 
         </div>
 
