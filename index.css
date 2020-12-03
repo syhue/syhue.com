@@ -1,3 +1,4 @@
+
 #body-main{
     margin-left: 30rem;
 }
@@ -53,11 +54,10 @@
 }
 
 .flex-container-horizontal >div {
-    display: flex;
-    flex-direction: row;
-    margin-left: 10px;
+
+    margin-right: 10px;
     /* border: 2px solid red; */
-}
+ }
 
 .flex-container-vertical{
     display: flex;
@@ -65,24 +65,34 @@
 
 }
 
-@media (max-width: 800px) {
+#hide-on-pc{
+    display: none;
+}
+
+
+@media screen and (max-width: 767px) {
     #body-main{
-        margin-left: 2rem;
+        margin-left: 5rem;
     }
 
     #img-main{
         width: 15rem;
     }
 
-    .flex-container-horizontal >div {
+    #hide-on-mobile{
+        display: none;
+    }
+
+    #hide-on-pc{
+        display: block;
+    }
+
+    .flex-container-horizontal{
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         margin-left: 5px;
         /* border: 2px solid red; */
     }
 
-  .flex-container-vertical {
-      display: flex;
-      flex-direction: column;
-  }
+
 }
