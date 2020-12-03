@@ -29,7 +29,7 @@ include 'navbar.html';?>
         <div class="tooltip"><a class="project-passage animate__shakeX" href="https://syhue.com/csv-database-convertor">2) CSV to Database Convertor </a><span class="tooltiptext">  This works done during my internship in MIMOS Berhad.</span>
         </div>
 
-        <div class="image_slide">
+        <!-- <div class="image_slide">
         <section class="hide-in-mobile">
 
             <img class="images" src="progress-photo1.webp">
@@ -39,7 +39,7 @@ include 'navbar.html';?>
             <i id="leftarrow" class='far fa-hand-point-left' style='font-size:36px' onclick="plusDivs(-1)"></i>
             <i id="rightarrow" class='far fa-hand-point-right' style='font-size:36px' onclick="plusDivs(+1)"></i>
         </section>
-        </div>
+        </div> -->
 
 
 
