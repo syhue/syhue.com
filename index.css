@@ -66,7 +66,7 @@
 }
 
 #hide-on-pc{
-    display: none;
+    display:none;
 }
 
 
@@ -80,11 +80,11 @@
     }
 
     #hide-on-mobile{
-        display: none;
+        display:none;
     }
 
     #hide-on-pc{
-        display: block;
+        display:block;
     }
 
     .flex-container-horizontal{
