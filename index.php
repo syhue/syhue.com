@@ -2,7 +2,7 @@
 include 'navbar.html';?>
 
 
-<!DOCTYPE HTML5>
+<!DOCTYPE HTML>
 
 <html lang="en">
 <head>
