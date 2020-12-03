@@ -18,7 +18,7 @@ include 'navbar.html';?>
     <div id="intro" class="flex-container-vertical">
         <div><h1>Profile.</h1></div>
 
-        <div><img id="formal-profile" src="formal-profile.jpg" alt="Profile Photo" width="98px"></div>
+        <div><img id="formal-profile" src="formal-profile.webp" alt="Profile Photo" width="98px"></div>
 
         <div>
             <br>
