@@ -7,8 +7,6 @@ include 'navbar.html';?>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="" content="SitePoint">
   <link rel="stylesheet" href="web-dev.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
