@@ -46,7 +46,7 @@ include 'navbar.html'; ?>
     </div>
     <div class="tooltip">
       <a class="project-passage animate__shakeX" href="https://syhue.com/angular-cheat-sheet">
-        3) My own Angular Cheat Sheet
+        1) My own Angular Cheat Sheet
       </a>
       <span class="tooltiptext">
         Documentation on methods to use for different purpose. 
