@@ -15,32 +15,21 @@ include 'navbar.html';?>
 <body>
     <div id="intro" class="flex-container-vertical">
         <div><h1>Profile.</h1></div>
-
         <div><img id="formal-profile" src="formal-profile.webp" alt="Profile Photo" width="98px"></div>
-
         <div>
             <br>
             <h4>Hue Sook Yan</h4>
             <h5>Given Name is Sook Yan.</h5><h5>Surname is Hue.</h5>
             <h5>Born in 1995.</h5>
             <br>
-
             <h4>Education</h4>
             <h5>Bachelor of Science (Mathematics) with Honours</h5>
             <h6>Graduated at 2020</h6>
             <h6>Universiti Teknologi Malaysia</h6>
             <h6>Skudai, Johor, Malaysia</h6>
             <h6>Batch 2016/2017</h6>
-
             <br>
-
-
         </div>
-
-
     </div>
-
 </body>
-
-
 </html>
