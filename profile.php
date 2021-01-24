@@ -26,13 +26,6 @@ include 'navbar.html';?>
             <br>
 
             <h4>Education</h4>
-            <h5>Master of Science (Information Technology)</h5>
-            <h6>Present</h6>
-            <h6>Multimedia University</h6>
-            <h6>Cyberjaya, Selangor, Malaysia</h6>
-            <h6>Batch 2020/2021</h6>
-            <br>
-
             <h5>Bachelor of Science (Mathematics) with Honours</h5>
             <h6>Graduated at 2020</h6>
             <h6>Universiti Teknologi Malaysia</h6>

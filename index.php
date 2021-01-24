@@ -40,7 +40,7 @@ include 'navbar.html';?>
                 <div><img id="img-main" src="cute.jpg" alt="Mike and Mocha"></div>
 
                 <div>
-                    <p ><br><a class="intro-passage">Have you take your breakfast?</a><br><a class="intro-passage">Are you ready for today?</a><br>*Image cited from "Milk and Mocha Bear"</p>
+                    <p ><br><a class="intro-passage">Have you taken your breakfast?</a><br><a class="intro-passage">Are you ready for today?</a><br>*Image cited from "Milk and Mocha Bear"</p>
                     </div>
             </div>
 
