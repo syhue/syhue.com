@@ -42,7 +42,7 @@ include 'navbar.html'; ?>
     <br>
     <br>
     <div>
-      <h1>Documentation</h1>
+      <!-- <h1>Documentation</h1>
     </div>
     <div class="tooltip">
       <a class="project-passage animate__shakeX" href="https://syhue.com/angular-cheat-sheet">
@@ -52,7 +52,7 @@ include 'navbar.html'; ?>
         Documentation on methods to use for different purpose. 
       </span>
     </div>
-  </div>
+  </div> -->
 
   <script>
     var slideIndex = 1;
