@@ -40,7 +40,7 @@ include 'navbar.html'; ?>
       </span>
     </div>
     <div class="tooltip">
-      <a class="project-passage animate__shakeX" href="https://syhue.com/angular-cheat-sheet">
+      <a class="project-passage animate__shakeX" href="https://syhue.com/angular-learning-documentation">
         4) My Angular Learning Documentation
       </a>
     </div>
