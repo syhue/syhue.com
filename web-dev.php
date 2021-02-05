@@ -39,20 +39,11 @@ include 'navbar.html'; ?>
         Basic usage of applying directives, services, angular materials. 
       </span>
     </div>
-    <br>
-    <br>
-    <div>
-      <!-- <h1>Documentation</h1>
-    </div>
     <div class="tooltip">
       <a class="project-passage animate__shakeX" href="https://syhue.com/angular-cheat-sheet">
-        1) My own Angular Cheat Sheet
+        1) My Documentation on Learning Angular
       </a>
-      <span class="tooltiptext">
-        Documentation on methods to use for different purpose. 
-      </span>
     </div>
-  </div> -->
 
   <script>
     var slideIndex = 1;
