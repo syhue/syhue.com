@@ -44,6 +44,14 @@ include 'navbar.html'; ?>
         4) My Angular Learning Documentation
       </a>
     </div>
+    <div class="tooltip">
+      <a class="project-passage animate__shakeX" href="https://www.frontendmentor.io/solutions/rest-countries-api-A0I_Cg8bj">
+        5) REST Countries API
+      </a>
+      <span class="tooltiptext">
+        Frontend Mentors' Challenge.
+      </span>
+    </div>
 
   <script>
     var slideIndex = 1;
